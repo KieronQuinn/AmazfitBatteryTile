@@ -10,7 +10,7 @@ Simple quick settings tile showing the battery percentage and charging state of 
 - Tap or long tap to open the Amazfit App (best used with [AmazMod](https://github.com/edotassi/AmazMod) as that has better battery info)
 
 ## Usage
-- Install APK on your phone:
+- Install the [latest release](https://github.com/KieronQuinn/AmazfitBatteryTile/releases) APK on your phone:
   
   `adb install -r AmazfitBatteryTile-1.0.apk`
 - Add the quick settings tile like you would any other using the settings
