@@ -1,0 +1,7 @@
+<resources>
+    <string name="amazfit_battery">Amazfit Battery Tile</string>
+    <string name="amazfit_percent">Amazfit: %1$s%2$s</string>
+    <string name="percent">%</string>
+    <string name="unknown">Unknown</string>
+    <string name="refreshing">Refreshing</string>
+</resources>
